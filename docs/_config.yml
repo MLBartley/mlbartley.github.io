@@ -36,6 +36,8 @@ plugins:
 - name: Build Jekyll for GitHub Pages
   uses: actions/jekyll-build-pages@v1.0.5
 
+- name: Deploy GitHub Pages site
+  uses: actions/deploy-pages@v1.2.2
 
 
 # Exclude from processing.
