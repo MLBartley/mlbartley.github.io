@@ -33,6 +33,11 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+- name: Build Jekyll for GitHub Pages
+  uses: actions/jekyll-build-pages@v1.0.5
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
