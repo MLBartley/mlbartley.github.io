@@ -39,6 +39,9 @@ plugins:
 - name: Deploy GitHub Pages site
   uses: actions/deploy-pages@v1.2.2
 
+- name: Checkout
+  uses: actions/checkout@v2.5.0
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
