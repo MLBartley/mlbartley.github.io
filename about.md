@@ -13,3 +13,9 @@ If you are looking for a statistical consultant you may find more information [h
 3. Joining eBird STEM abundance with individual tracking data to delineate populations
 
 I am based out of Bozeman, Montana and have fallen in love with the mountains, this town, and the community here. When I'm not enjoying helping folks with their statistical analyses (and more!) I can be found either out on the trails, at my favorite tea shop, or in my garden working to create an epic wildlife habitat that'll bring all the birds to the yard. 
+
+
+
+
+
+The visual CV was made in R using code found in this [blog post](https://datascienceplus.com/visualize-your-cvs-timeline-with-r-gantt-style/).
