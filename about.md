@@ -1,5 +1,5 @@
 
-![A visual representation of Meridith's CV made in R. It shows a background with degrees in biology and wildlife science before earning a PhD in Statistics. ](/images/VisualCV.png)
+[![A visual representation of Meridith's CV made in R. It shows a background with degrees in biology and wildlife science before earning a PhD in Statistics. ](/images/VisualCV.png)](/images/VisualCV.png)
 
 
 I am an applied statistician happily playing in everyone's research backyards. After extensive training in biology and wildlife science fields, I found my way to statistics and now use my combined expertises to collaborate with and consult for folks in environmental and ecological projects. I graduated Spring 2021 with my PhD in Statistics from Pennsylvania State University with research focused on statistical ecology. My strong quantitative background in the biological sciences (BS in biology, MS in wildlife ecology) and interdisciplinary research during my PhD in Statistics has led to my expertise in analyzing and visualizing complex ecological and environmental datasets along with providing comprehensive support and communication within a collaborative team.
