@@ -1,5 +1,3 @@
+I have over 15 years of experience in communicating both biological and statistical concepts to diverse audiences. As a graduate student in wildlife science at NMSU I led a team of undergraduate students (15+ students from a variety of backgrounds) where I encouraged students to expand their focus to include quantitative efforts when assisting in experiments or even designing and executing experiments to answer their own research questions. I began teaching courses within the Biology Department during my junior year of undergrad at Western Kentucky University. As I taught my students, I learned ways to be a better teacher and a more effective communicator. At PSU, I was a lecturer for an Introduction to Statistics course where I conveyed basic concepts to improve students’ statistical literacy.
 
-
-* teaching experience
-* workshop offerings
-* links to resources?
+To promote professional development and foster an environment of camaraderie within my new fellow grad students in the Statistics Department at Penn State I organized weekly workshops. Resources from past workshops may be found on the Statistics Graduate Student Association website.
