@@ -1,7 +1,5 @@
+Welcome to my corner of the internet! My name is Meridith Bartley and I am an independent statistical consultant based in Bozeman, Montana. I completed my Ph.D in Statistics in 2020 with a focus on ecological statistics. My strong quantitative background in (and general science nerdery and passion for) the biological sciences (BS in biology, MS in wildlife ecology) has led to my expertise in organizing, analyzing, and visualizing complex ecological and environmental datasets along with providing comprehensive support and communication within a collaborative team. You can learn more about who I am and what I do on the [About Me](mlbartley.github.io/about) page.
 
+If you are interested in hiring a statitistical consultant you may find out more about services I offers and what the consultaiton process entails on the [Consulting](mlbartley.github.io/consulting) page. 
 
-* You can find out more about me
-* If you are interested in hiring a statistical consulting 
-* Check out my most recent blog post on <topic>
-* Check out my most popular blog post
-*  
+In addition to work and various other hobbies, I occasionally write and blog about various STEM topics. Together with Rachel Wigginton, I have written a number of posts about graduate student advice and overall Science Lifestyle topics on our [Sweet Tea, Science](www.sweetteascience.com) blog. Life and finishing our respective Ph.D programs took over and we have not posted since mid-2019, but I hope to return to blog posts soon with a new focus on providing overviews of R code used for various statistical analyses conducted as a consultant. 
