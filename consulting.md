@@ -3,7 +3,7 @@ I am available for statistical consulting projects that may encompass a range of
 **Services Offered**
 
 * Data cleaning
-* Statistical analyses of environmental and ecological data
+* Statistical analyses 
 * Written report of analysis 
 * Clearly commented R Code for EDA, Analysis, Figures, etc
 * Assistance in scientific publications (e.g. writing or reviewing statistical methods)
@@ -18,7 +18,7 @@ To start the consulting process, please submit a Request Form. You may reach out
 
 * You develop the reseach/project goals, questions, etc. 
 * You fill out the consulting Request Form
-* I schedules a free one hour consultation to discuss the goals and scope of the proposed project
+* I schedule a free one hour consultation to discuss the goals and scope of the proposed project
 * We discuss the role of the consultant in this project (e.g. deliverables requested, timeline, hourly fee, best communication practices during the consulting period)
 * We agree upon and sign a consulting contract that outlines the following: compensation and expenses, confidentiality of project, tasks and deliverables, timeline and proposed due dates for drafts and final projects, billing process and schedule.
 * I get to work! We will meet at intervals decided upon (e.g. weekly) to discuss progress and relevant updates. 
@@ -28,7 +28,7 @@ To start the consulting process, please submit a Request Form. You may reach out
 
 **Availability & Rates**
 
-  I charge based on an hourly rate for consulting projects (as opposed to a flat rate per project). We will discuss this rate during our initial consultation meeting and agree on a value before consulting starts. Rates increase at the beginning of each calendar year to adjust for inflation, but the base rate will be locked in when you submit a Request Form (i.e. submitting a Request form in December 2022 will ensure you are charged using 2022 rates). Hourly rates will depend on 
+  I charge based on an hourly rate for consulting projects (as opposed to a flat rate per project). We will discuss this rate during our initial consultation meeting and agree on a value before consulting starts. Hourly rates will depend on 
   
   * Duration of project
   * Number and types of deliverables requested
