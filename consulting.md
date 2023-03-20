@@ -32,7 +32,7 @@ To start the consulting process, please [submit a Request Form](https://forms.gl
   
   * Duration of project
   * Number and types of deliverables requested
-  * Repeat buisness
+  * Repeat business
   * Career stage 
   
 <!-- **Client Testimonials** -->
